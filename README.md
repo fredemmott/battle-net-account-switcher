@@ -34,3 +34,11 @@ Battle.net is not running.
 Updating configuration file...
 Launching battle.net...
 ```
+
+## Credit
+
+Thanks to @lemasato for his [AHK implementation](https://github.com/lemasato/BNet-Account-Switcher), and description of the method on Reddit. I wanted something that didn't depend on AHK, and was easier to inspect.
+
+## License
+
+This script is [MIT-licensed](LICENSE).
